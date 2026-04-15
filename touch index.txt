@@ -3,3 +3,4 @@ added this point form github
 FOYER FOOD DELIVERY PLATFORM
 hello foyer 
 hello 
+food delivery platform includes all essential goods and home servics grocery 
